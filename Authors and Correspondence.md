@@ -4,5 +4,5 @@
 
 2	Verband deutscher Betriebs- und Werksärzte e.V., Magdeburg, Germany
 ___
-Correspondence: c.firle@gmx.eu
+Correspondence: firle.carl.baua@gmx.de
 ___
