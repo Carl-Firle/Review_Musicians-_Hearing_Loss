@@ -140,7 +140,7 @@
 
 
 
-## Unknown Genre
+## Unknown, Mixed Genre
 |title|number of participants|finding audiometry|frequency range|side of ear|portion of affected persons|description of affected persons|
 |---|---|---|---|---|---|---|
 |[Hearing loss and mental health issues in amateur and professional musicians    Maghiar, M. J.;  Lawrence, B. J.; Mulders, W. H. A. M; Moyle, T. C.; Livings, I.; Jayakody, D. M. P.  (2023)](https://doi.org/10.1177/03057356231155970)|32|normal hearing|500-16000|-|-|professional musicians|
