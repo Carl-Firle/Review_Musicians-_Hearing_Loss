@@ -1,4 +1,3 @@
-# Literature List of Retrieved Studies
 |Title|Authors|Journal Title|DOI/Hyperlink|Database|Date of Retrieval [year/month/day]|Year|
 |---|---|---|---|---|---|---|
 |A comparison of the digits-in-noise test and extended high frequency response between formally trained musicians and non-musicians|Dreyer, B.; Pottas, L.; Soer, M. E.; Graham, M. A. |Auditory & Vestibular Research|[URL](https://repository.up.ac.za/handle/2263/90644)|Google Scholar|2023/08/15|2023|
@@ -35,7 +34,7 @@
 |Hearing in nonprofessional pop/rock musicians|Schmuziger, N.; Patscheke, J.; Probst, R.|Ear and hearing|[URL](https://doi.org/10.1097/01.aud.0000224737.34907.5e)|MEDLINE|2023/08/14|2006|
 |Hearing in pop musicians|Axelsson, A.; Lindgren, F.|Acta oto-laryngologica|[URL](https://doi.org/10.3109/00016487809111929)|MEDLINE|2023/08/14|1978|
 |Hearing in pop/rock musicians: a follow-up study|Axelsson, A.; Eliasson, A.; Israelsson, B.|Ear and hearing|[URL](https://doi.org/10.1097/00003446-199506000-00001)|MEDLINE|2023/08/14|1995|
-|Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]|Sivaraj, S.|Massey University, Wellington, New Zealand|[URL](https://mro.massey.ac.nz/handle/10179/3681)|Google Scholar|2023/08/15|2011|
+|Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis […]|Sivaraj, S.|Massey University, Wellington, New Zealand|[URL](https://mro.massey.ac.nz/handle/10179/3681)|Google Scholar|2023/08/15|2011|
 |Hearing loss among classical-orchestra musicians|Toppila, E.; Koskinen, H.; Pyykkö, I.|Noise & health|[URL](https://doi.org/10.4103/1463-1741.74001)|MEDLINE|2023/08/14|2011|
 |Hearing loss and mental health issues in amateur and professional musicians|Maghiar, M. J.;  Lawrence, B. J.; Mulders, W. H. A. M; Moyle, T. C.; Livings, I.; Jayakody, D. M. P. |Psychology of Music|[URL](https://doi.org/10.1177/03057356231155970)|Google Scholar|2023/08/15|2023|
 |Hearing loss and tinnitus in rock musicians: a Norwegian survey|Størmer, C. C.; Laukli, E.; Høydal, E. H.; Stenklev, N. C.|Noise & health|[URL](https://doi.org/10.4103/1463-1741.169708)|MEDLINE|2023/08/14|2015|
