@@ -4,71 +4,71 @@
 ## Classical Music
 |title|number of participants|sex|finding audiometry|frequency range|age correction|side of ear|portion of affected persons|description of affected persons|minimal years as practising musician|
 |---|---|---|---|---|---|---|---|---|---|
-|[Hearing loss in relation to sound exposure of professional symphony orchestra musicians    Schmidt, J. H.; Pedersen, E. R.; Paarup, H. M.; Christensen-Dalsgaard, J.; Andersen, T.; Poulsen, T.; Bælum, J. (2014)](https://doi.org/10.1097/AUD.0000000000000029)|182|74f, 114m|normal hearing|250-8000|yes|-|-|symphony orchestra musicians|2.|
-|[Exposure to excessive sounds and hearing status in academic classical music students    Pawlaczyk-Łuszczyńska, M.; Zamojska-Daniszewska, M.; Dudarewicz, A.; Zaborowski, K. (2017)](https://doi.org/10.13075/ijomeh.1896.00709)|168|82f, 86m|normal hearing|500-8000|n/a|-|-|music students|-|
-|[Inner ear damage in an opera theatre orchestra as detected by otoacoustic emissions, pure tone audiometry and sound levels    Murray, N.; Lepage, E.; Mikl, K. (1998)](https://www.researchgate.net/publication/294587738_Inner_ear_damage_in_an_opera_theatre_orchestra_as_detected_by_otoacoustic_emissions_pure_tone_audiometry_and_sound_levels)|119|59f, 61m|normal hearing in 5 year follow-up|6000|n/a|r+l|![Bar](figures/summary%20table/001.png)107/119|ballet orchestra members|-|
-|[Investigating the effects of noise exposure on self-report, behavioral and electrophysiological indices of hearing damage in musicians with normal audiometric thresholds    Couth, S.; Prendergast, G.; Guest, H.; Munro, K. J.; Moore, D. R.; Plack, C. J.; Ginsborg, J.; Dawes, P. (2020)](https://doi.org/10.1016/j.heares.2020.108021)|85|40f, 45m|normal hearing|250-8000|n/a|-|-|music students|8.|
-|[Extended high frequency hearing sensitivity. A normative threshold study in musicians    Johnson, D. W.; Sherman, R. E.; Aldridge, J.; Lorraine, A. (1986)](https://doi.org/10.1177/000348948609500219)|60|18f, 42m|normal hearing < 3 dB|250-8000|n/a|r+l|![Bar](figures/summary%20table/002.png)60/60|orchestra musicians|-|
-|[Hearing ability in Danish symphony orchestra musicians    Obeling, L.; Poulsen, T. (1999)](https://pubmed.ncbi.nlm.nih.gov/12689507)|57|26f, 31m|normal hearing|-|yes|-|-|musicians from symphony orchestra|-|
-|[Prevalence of hearing loss among university music students    Comeau, G.; Koravand, A.; Swirp, M. (2018)](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3042)|53|30f, 23m|normal hearing|-|n/a|-|-|music students (classical music) females compared to males|7.|
-|[Prevalence of hearing loss among university music students    Comeau, G.; Koravand, A.; Swirp, M. (2018)](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3042)|53|30f, 23m|normal hearing|-|n/a|-|![Bar](figures/summary%20table/003.png)52/53|music students (classical music) compared to control group|7.|
-|[A comparison of the digits-in-noise test and extended high frequency response between formally trained musicians and non-musicians    Dreyer, B.; Pottas, L.; Soer, M. E.; Graham, M. A.  (2023)](https://repository.up.ac.za/handle/2263/90644)|40|19f, 21m|normal hearing <15 dB|250-8000|n/a|-|![Bar](figures/summary%20table/004.png)40/40|classical musicians|5.|
-|[Studies of the effectiveness and degree of acceptance of earplugs in orchestral musicians    Wegner, R.; Wendlandt, P.; Poschadel, B.; Olma, K.; Szadkowski, D. (2000)](https://www.embase.com/records?subaction=viewrecord&id=L30783003)|33|14f, 20m|normal hearing according to the "Konigsteiner Merkblatt"|250-8000|yes|-|![Bar](figures/summary%20table/005.png)33/33|orchestra musicians|-|
-|[The comprehensive audiological evaluation in young violinists: the medial olivocochlear system, high frequency thresholds, and the auditory figure ground test    Gündüz, B.; Yıldırım Gökay, N.; Orhan, E.; Yılmaz, M. (2022)](https://doi.org/10.1007/s00405-021-07122-8)|25|13f, 12m|normal hearing|-|n/a|r+l|![Bar](figures/summary%20table/006.png)25/25|violinists|-|
-|[Environmental factors in susceptibility to noise-induced hearing loss in student musicians    Phillips, S. L.; Shoemaker, U.; Mace, S. T.; Hodges, D. A. (2008)](http://dx.doi.org/10.21091/mppa.2008.1005)|338|-|notch|6000|n/a|-|![Bar](figures/summary%20table/007.png)170/338|music students|-|
-|[Prevalence of noise-induced hearing loss in student musicians    Phillips, S. L.; Henrich, V. C.; Mace, S. T. (2010)](https://doi.org/10.3109/14992020903470809)|329|153f, 176m|notch >15 dB|4000-6000|n/a|r/l|![Bar](figures/summary%20table/008.png)148/329|music students (classical music, 19 jazz)|-|
-|[Noise induced hearing loss and other hearing complaints among musicians of symphony orchestras    Jansen, E. J.; Helleman, H. W.; Dreschler, W. A.; de Laat, J. A. (2009)](https://doi.org/10.1007/s00420-008-0317-1)|241|113f, 128m|notch|6000|yes|-|-|symphony orchestra musicians|-|
-|[Exposure to excessive sounds and hearing status in academic classical music students    Pawlaczyk-Łuszczyńska, M.; Zamojska-Daniszewska, M.; Dudarewicz, A.; Zaborowski, K. (2017)](https://doi.org/10.13075/ijomeh.1896.00709)|168|82f, 86m|notch >15 dB|4000-6000|n/a|-|![Bar](figures/summary%20table/009.png)23/168|music students|-|
-|[Evidence of noise-induced hearing loss among orchestral musicians    Backus, B. C.; Williamon, A. (2009)](http://researchonline.rcm.ac.uk/id/eprint/367/)|162|86f, 76m|notch|6000|yes|l|-|students of music|-|
-|[Hearing assessment of classical orchestral musicians    Kähäri, K. R.; Axelsson, A.; Hellström, P. A.; Zachau, G. (2001)](https://doi.org/10.1080/010503901750069536)|140|42f, 98m|notch <20 dB|6000|yes|l|-|male musicians from symphony orchestra|-|
-|[Noise-induced hearing loss in professional orchestral musicians    Pawlaczyk-Łuszczyncska, M.; Zamojkska, M.; Dudarewicz, A.; Zaborowski, K. (2013)](http://acousticsnew.ippt.pan.pl/index.php/aa/article/view/37)|126|58f, 68m|notches|4000-6000|n/a|r|![Bar](figures/summary%20table/010.png)17/126|symphony orchestra musicians|5.|
-|[Noise-induced hearing loss in professional orchestral musicians    Pawlaczyk-Łuszczyncska, M.; Zamojkska, M.; Dudarewicz, A.; Zaborowski, K. (2013)](http://acousticsnew.ippt.pan.pl/index.php/aa/article/view/37)|126|58f, 68m|notches|4000-6000|n/a|l|![Bar](figures/summary%20table/011.png)27/126|symphony orchestra musicians|5.|
-|[Noise-induced hearing loss and orchestral musicians    Westmore, G. A.; Eversden, I. D. (1981)](https://doi.org/10.1001/archotol.1981.00790480037010)|68|-|notches|-|n/a|-|![Bar](figures/summary%20table/012.png)23/68|orchestra musicians [ears reported for affected persons and sample size]|3.|
-|[Hearing loss among classical-orchestra musicians    Toppila, E.; Koskinen, H.; Pyykkö, I. (2011)](https://doi.org/10.4103/1463-1741.74001)|63|25f, 38m|notch >7 dB|6000|yes|r|-|orchestra members|-|
-|[Hearing loss among classical-orchestra musicians    Toppila, E.; Koskinen, H.; Pyykkö, I. (2011)](https://doi.org/10.4103/1463-1741.74001)|63|25f, 38m|notch >10 dB|6000|yes|l|-|orchestra members|-|
-|[Hearing development in classical orchestral musicians. A follow-up study    Kähäri, K. R.; Axelsson, A.; Hellström, P. A.; Zachau, G. (2001)](https://doi.org/10.1080/010503901316914511)|56|13f, 43m|notch (median)|6000|n/a|r+l|-|orchestra musicians|-|
-|[Review of orchestra musicians' hearing loss riskss    Eaton, S.; Gillis, H. (2002)](http://jcaa.caa-aca.ca/index.php/jcaa/article/view/1429)|53|22f, 31m|notch 15 dB|3000-6000|yes|r+l|![Bar](figures/summary%20table/013.png)13/53|orchestra musicians|-|
-|[Auditory effects of music exposure in young musicians of a philharmonic band    Passos, P.S.; Dos Santos, T. A.; Fiorini, A. C.; De Oliveira Barreto, A. C. (2016)](https://revistas.pucsp.br/dic/article/viewFile/28502/21801)|22|6f, 16m|notches|4000-6000|n/a|r|![Bar](figures/summary%20table/014.png)5/22|adolescent musicians|1.|
-|[Auditory effects of music exposure in young musicians of a philharmonic band    Passos, P.S.; Dos Santos, T. A.; Fiorini, A. C.; De Oliveira Barreto, A. C. (2016)](https://revistas.pucsp.br/dic/article/viewFile/28502/21801)|22|6f, 16m|notches|3000-6000|n/a|l|![Bar](figures/summary%20table/015.png)8/22|adolescent musicians|1.|
-|[Noise and the classical musician    McBride, D.; Gill, F.; Proops, D.; Harrington, M.; Gardiner, K.; Attwell, C. (1992)](https://doi.org/10.1136/bmj.305.6868.1561)|not reported|-|loss|250-2000|n/a|-|-| sound level exposure: low risk group musicians compared to high risk group|-|
-|[The hearing of symphony orchestra musicians    Karlsson, K.; Lundquist, P. G.; Olaussen, T. (1983)](https://doi.org/10.3109/01050398309044429)|392|55f, 337m|loss 5 dB|6000-8000|n/a|l|-|compared to right|-|
-|[The hearing of symphony orchestra musicians    Karlsson, K.; Lundquist, P. G.; Olaussen, T. (1983)](https://doi.org/10.3109/01050398309044429)|392|55f, 337m|loss 20 dB|4000-8000|n/a|r+l|![Bar](figures/summary%20table/016.png)17/392|flute players|-|
-|[The hearing of symphony orchestra musicians    Karlsson, K.; Lundquist, P. G.; Olaussen, T. (1983)](https://doi.org/10.3109/01050398309044429)|392|55f, 337m|loss|4000-8000|n/a|l|![Bar](figures/summary%20table/017.png)32/392|double bass players|-|
-|[Prevalence of noise-induced hearing loss in student musicians    Phillips, S. L.; Henrich, V. C.; Mace, S. T. (2010)](https://doi.org/10.3109/14992020903470809)|329|153f, 176m|loss|6000|n/a|r+l|![Bar](figures/summary%20table/018.png)25/329|music students (classical music, 19 jazz)|-|
-|[Prevalence of noise-induced hearing loss in student musicians    Phillips, S. L.; Henrich, V. C.; Mace, S. T. (2010)](https://doi.org/10.3109/14992020903470809)|329|153f, 176m|loss|6000|n/a|r|![Bar](figures/summary%20table/019.png)32/329|music students (classical music, 19 jazz)|-|
-|[Prevalence of noise-induced hearing loss in student musicians    Phillips, S. L.; Henrich, V. C.; Mace, S. T. (2010)](https://doi.org/10.3109/14992020903470809)|329|153f, 176m|loss|6000|n/a|l|![Bar](figures/summary%20table/020.png)55/329|music students (classical music, 19 jazz)|-|
-|[Prevalence of noise-induced hearing loss in student musicians    Phillips, S. L.; Henrich, V. C.; Mace, S. T. (2010)](https://doi.org/10.3109/14992020903470809)|329|153f, 176m|loss|4000|n/a|r+l|![Bar](figures/summary%20table/021.png)3/329|music students (classical music, 19 jazz)|-|
-|[Hearing loss in relation to sound exposure of professional symphony orchestra musicians    Schmidt, J. H.; Pedersen, E. R.; Paarup, H. M.; Christensen-Dalsgaard, J.; Andersen, T.; Poulsen, T.; Bælum, J. (2014)](https://doi.org/10.1097/AUD.0000000000000029)|182|74f, 114m|loss|3000-8000|yes|-|-|females compared to males|2.|
-|[The audiological health of horn players    Wilson, W. J.; O'Brien, I.; Bradley, A. P. (2013)](https://doi.org/10.1080/15459624.2013.818227)|142|62f, 80m|loss|-|yes|-|![Bar](figures/summary%20table/022.png)23/142|french horn players|0.|
-|[Hearing assessment of classical orchestral musicians    Kähäri, K. R.; Axelsson, A.; Hellström, P. A.; Zachau, G. (2001)](https://doi.org/10.1080/010503901750069536)|140|42f, 98m|loss|3000-8000|yes|-|![Bar](figures/summary%20table/023.png)13/140|7 musicians playing small strings, 3 woodwind players, 2 brasswind players and 1 percussionist|-|
-|[Noise-induced hearing loss in professional orchestral musicians    Pawlaczyk-Łuszczyncska, M.; Zamojkska, M.; Dudarewicz, A.; Zaborowski, K. (2013)](http://acousticsnew.ippt.pan.pl/index.php/aa/article/view/37)|126|58f, 68m|loss >25 dB|-|n/a|-|![Bar](figures/summary%20table/024.png)6/126|symphony orchestra musicians (88.9% are older musicians that have the loss)|5.|
-|[The hearing of symphony orchestra musicians    Karlsson, K.; Lundquist, P. G.; Olaussen, T. (1983)](https://doi.org/10.3109/01050398309044429)|123|55f, 337m|loss|4000-6000|n/a|-|![Bar](figures/summary%20table/025.png)39/123|musicians in 6 year follow-up who are 50-59 years|-|
-|[Inner ear damage in an opera theatre orchestra as detected by otoacoustic emissions, pure tone audiometry and sound levels    Murray, N.; Lepage, E.; Mikl, K. (1998)](https://www.researchgate.net/publication/294587738_Inner_ear_damage_in_an_opera_theatre_orchestra_as_detected_by_otoacoustic_emissions_pure_tone_audiometry_and_sound_levels)|119|59f, 61m|loss >15 dB|6000|n/a|r|![Bar](figures/summary%20table/026.png)6/119|orchestra musicians|-|
-|[Inner ear damage in an opera theatre orchestra as detected by otoacoustic emissions, pure tone audiometry and sound levels    Murray, N.; Lepage, E.; Mikl, K. (1998)](https://www.researchgate.net/publication/294587738_Inner_ear_damage_in_an_opera_theatre_orchestra_as_detected_by_otoacoustic_emissions_pure_tone_audiometry_and_sound_levels)|119|59f, 61m|loss >15 dB|6000|n/a|l|![Bar](figures/summary%20table/027.png)8/119|orchestra musicians|-|
-|[Is the audiologic status of professional musicians a reflection of the noise exposure in classical orchestral music?    Emmerich, E.; Rudel, L.; Richter, F. (2008)](https://doi.org/10.1007/s00405-007-0538-z)|109|33f, 76m|loss >15 dB|-|n/a|-|![Bar](figures/summary%20table/028.png)55/109|orchestra musicians|-|
-|[Is the audiologic status of professional musicians a reflection of the noise exposure in classical orchestral music?    Emmerich, E.; Rudel, L.; Richter, F. (2008)](https://doi.org/10.1007/s00405-007-0538-z)|109|33f, 76m|loss|4000-6000|n/a|l|![Bar](figures/summary%20table/029.png)59/109|strings from classical music orchestra (positively age correlated)|-|
-|[Hearing impairment in orchestral musicians    Ostri, B.; Eller, N.; Dahlin, E.; Skylv, G. (1989)](https://doi.org/10.3109/01050398909042202)|96|16f, 80m|loss >20 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/030.png)56/96|orchestra musicians (theatre)|6.|
-|[Hearing impairment in orchestral musicians    Ostri, B.; Eller, N.; Dahlin, E.; Skylv, G. (1989)](https://doi.org/10.3109/01050398909042202)|96|16f, 80m|loss|3000-4000|n/a|l|-|string group comparison left to right ear|6.|
-|[Hearing impairment in orchestral musicians    Ostri, B.; Eller, N.; Dahlin, E.; Skylv, G. (1989)](https://doi.org/10.3109/01050398909042202)|80|16f, 80m|loss >20 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/031.png)40/80|male orchestra musicians (theatre)|6.|
-|[Noise-induced hearing loss and orchestral musicians    Westmore, G. A.; Eversden, I. D. (1981)](https://doi.org/10.1001/archotol.1981.00790480037010)|68|-|loss >20 dB|4000|n/a|-|![Bar](figures/summary%20table/032.png)4/68|orchestra musicians [ears reported for affected persons and sample size] |3.|
-|[Acoustic trauma in classical music players    Morais, D; Benito, J. I.; Almaraz, A. (2007)](https://pubmed.ncbi.nlm.nih.gov/17999904/)|65|20f, 45m|loss|4000|yes|r+l|![Bar](figures/summary%20table/033.png)7/65|symphony orchestra members|-|
-|[Acoustic trauma in classical music players    Morais, D; Benito, J. I.; Almaraz, A. (2007)](https://pubmed.ncbi.nlm.nih.gov/17999904/)|65|20f, 45m|loss|4000|yes|l|-|10 viola players & 21 violinist|-|
-|[Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]    Sivaraj, S. (2011)](https://mro.massey.ac.nz/handle/10179/3681)|61|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/034.png)37/61|symphony orchestra members|-|
-|[Sound exposures and hearing thresholds of symphony orchestra musicians    Royster, J. D.; Royster, L. H.; Killion, M. C. (1991)](https://doi.org/10.1121/1.400719)|59|13f, 46m|loss|3000-8000|yes|-|-|male musicians compared to female musicians|-|
-|[Sound exposures and hearing thresholds of symphony orchestra musicians    Royster, J. D.; Royster, L. H.; Killion, M. C. (1991)](https://doi.org/10.1121/1.400719)|59|13f, 46m|loss|3000-4000|yes|l|-|violinists and violists|-|
-|[Sound exposures and hearing thresholds of symphony orchestra musicians    Royster, J. D.; Royster, L. H.; Killion, M. C. (1991)](https://doi.org/10.1121/1.400719)|59|13f, 46m|loss|2000-8000|yes|r/l/r+l|![Bar](figures/summary%20table/035.png)42/59|symphony orchestra players|-|
-|[Prevalence of hearing loss among university music students    Comeau, G.; Koravand, A.; Swirp, M. (2018)](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3042)|53|30f, 23m|loss|-|n/a|-|![Bar](figures/summary%20table/036.png)1/53|music students (classical music)|7.|
-|[Noise exposure and hearing loss in classical orchestra musicians: a five-year follow-up    Behar, A.; Chasin, M.; Mosher, S.; Abdoli-Eramaki, M.; Russo, F. A. (2018)](https://www.researchgate.net/publication/321753921_Noise_Exposure_and_Hearing_Loss_in_Classical_Orchestra_Musicians_A_Five-Year_Follow-Up)|46|-|loss|4000-6000|n/a|-|-|ballet orchestra members|-|
-|[Noise exposure and hearing loss in classical orchestra musicians    Russo, F. A.; Behar, A.; Chasin, M.; Mosher, S. (2013)](http://dx.doi.org/10.1016/j.ergon.2012.11.001)|44|21f, 23m|loss|4000-6000|n/a|-|-|ballet orchestra members|-|
-|[Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]    Sivaraj, S. (2011)](https://mro.massey.ac.nz/handle/10179/3681)|32|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/037.png)20/32|symphony orchestra members — small string instrument group|-|
-|[Hearing impairment in orchestral musicians    Ostri, B.; Eller, N.; Dahlin, E.; Skylv, G. (1989)](https://doi.org/10.3109/01050398909042202)|16|16f, 80m|loss >20 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/038.png)2/16|female orchestra musicians (theatre)|6.|
-|[Hearing impairment among orchestral musicians    Woolford, D. H.;Carterette, E. C.; Morgan, D. E.  (1988)](https://online.ucpress.edu/mp/article-abstract/5/3/261/62710)|13|-|loss >25 dB|~4000-8000|yes|r/l|![Bar](figures/summary%20table/039.png)3/13|members of orchestra|-|
-|[Hearing impairment among orchestral musicians    Woolford, D. H.;Carterette, E. C.; Morgan, D. E.  (1988)](https://online.ucpress.edu/mp/article-abstract/5/3/261/62710)|13|-|loss|~4000-8000|yes|r+l/r/l|![Bar](figures/summary%20table/040.png)4/13|members of orchestra|-|
-|[Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]    Sivaraj, S. (2011)](https://mro.massey.ac.nz/handle/10179/3681)|11|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/041.png)6/11|symphony orchestra members —  string instrument group|-|
-|[Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]    Sivaraj, S. (2011)](https://mro.massey.ac.nz/handle/10179/3681)|9|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/042.png)6/9|symphony orchestra members —  brass instrument group|-|
-|[Perception of hearing loss in orchestral musicians    Gebel, E.; Jones, S. M.; Honaker, J. A. (2017)](https://digitalcommons.unl.edu/cehsdiss/285/)|6|1f, 5m|loss >25 dB|4000-8000|n/a|r+l|![Bar](figures/summary%20table/043.png)3/6|symphony orchestra members|10.|
-|[Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]    Sivaraj, S. (2011)](https://mro.massey.ac.nz/handle/10179/3681)|6|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/044.png)2/6|symphony orchestra members — woodwind instrument group|-|
-|[Hearing in various age groups of orchestral musicians and progression of hearing loss with increased number of years of music exposure: a thesis [...]    Sivaraj, S. (2011)](https://mro.massey.ac.nz/handle/10179/3681)|3|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/045.png)3/3|symphony orchestra members — percussion group|-|
+|41|182|74f, 114m|normal hearing|250-8000|yes|-|-|symphony orchestra musicians|2.|
+|69|168|82f, 86m|normal hearing|500-8000|n/a|-|-|music students|-|
+|81|119|59f, 61m|normal hearing in 5 year follow-up|6000|n/a|r+l|![Bar](figures/summary%20table/001.png)107/119|ballet orchestra members|-|
+|82|85|40f, 45m|normal hearing|250-8000|n/a|-|-|music students|8.|
+|71|60|18f, 42m|normal hearing < 3 dB|250-8000|n/a|r+l|![Bar](figures/summary%20table/002.png)60/60|orchestra musicians|-|
+|35|57|26f, 31m|normal hearing|-|yes|-|-|musicians from symphony orchestra|-|
+|97|53|30f, 23m|normal hearing|-|n/a|-|-|music students (classical music) females compared to males|7.|
+|97|53|30f, 23m|normal hearing|-|n/a|-|![Bar](figures/summary%20table/003.png)52/53|music students (classical music) compared to control group|7.|
+|51|40|19f, 21m|normal hearing <15 dB|250-8000|n/a|-|![Bar](figures/summary%20table/004.png)40/40|classical musicians|5.|
+|46|33|14f, 20m|normal hearing according to the "Konigsteiner Merkblatt"|250-8000|yes|-|![Bar](figures/summary%20table/005.png)33/33|orchestra musicians|-|
+|104|25|13f, 12m|normal hearing|-|n/a|r+l|![Bar](figures/summary%20table/006.png)25/25|violinists|-|
+|68|338|-|notch|6000|n/a|-|![Bar](figures/summary%20table/007.png)170/338|music students|-|
+|99|329|153f, 176m|notch >15 dB|4000-6000|n/a|r/l|![Bar](figures/summary%20table/008.png)148/329|music students (classical music, 19 jazz)|-|
+|43|241|113f, 128m|notch|6000|yes|-|-|symphony orchestra musicians|-|
+|69|168|82f, 86m|notch >15 dB|4000-6000|n/a|-|![Bar](figures/summary%20table/009.png)23/168|music students|-|
+|34|162|86f, 76m|notch|6000|yes|l|-|students of music|-|
+|36|140|42f, 98m|notch <20 dB|6000|yes|l|-|male musicians from symphony orchestra|-|
+|91|126|58f, 68m|notches|4000-6000|n/a|r|![Bar](figures/summary%20table/010.png)17/126|symphony orchestra musicians|5.|
+|91|126|58f, 68m|notches|4000-6000|n/a|l|![Bar](figures/summary%20table/011.png)27/126|symphony orchestra musicians|5.|
+|90|68|-|notches|-|n/a|-|![Bar](figures/summary%20table/012.png)23/68|orchestra musicians [ears reported for affected persons and sample size]|3.|
+|39|63|25f, 38m|notch >7 dB|6000|yes|r|-|orchestra members|-|
+|39|63|25f, 38m|notch >10 dB|6000|yes|l|-|orchestra members|-|
+|74|56|13f, 43m|notch (median)|6000|n/a|r+l|-|orchestra musicians|-|
+|44|53|22f, 31m|notch 15 dB|3000-6000|yes|r+l|![Bar](figures/summary%20table/013.png)13/53|orchestra musicians|-|
+|60|22|6f, 16m|notches|4000-6000|n/a|r|![Bar](figures/summary%20table/014.png)5/22|adolescent musicians|1.|
+|60|22|6f, 16m|notches|3000-6000|n/a|l|![Bar](figures/summary%20table/015.png)8/22|adolescent musicians|1.|
+|85|not reported|-|loss|250-2000|n/a|-|-| sound level exposure: low risk group musicians compared to high risk group|-|
+|105|392|55f, 337m|loss 5 dB|6000-8000|n/a|l|-|compared to right|-|
+|105|392|55f, 337m|loss 20 dB|4000-8000|n/a|r+l|![Bar](figures/summary%20table/016.png)17/392|flute players|-|
+|105|392|55f, 337m|loss|4000-8000|n/a|l|![Bar](figures/summary%20table/017.png)32/392|double bass players|-|
+|99|329|153f, 176m|loss|6000|n/a|r+l|![Bar](figures/summary%20table/018.png)25/329|music students (classical music, 19 jazz)|-|
+|99|329|153f, 176m|loss|6000|n/a|r|![Bar](figures/summary%20table/019.png)32/329|music students (classical music, 19 jazz)|-|
+|99|329|153f, 176m|loss|6000|n/a|l|![Bar](figures/summary%20table/020.png)55/329|music students (classical music, 19 jazz)|-|
+|99|329|153f, 176m|loss|4000|n/a|r+l|![Bar](figures/summary%20table/021.png)3/329|music students (classical music, 19 jazz)|-|
+|41|182|74f, 114m|loss|3000-8000|yes|-|-|females compared to males|2.|
+|47|142|62f, 80m|loss|-|yes|-|![Bar](figures/summary%20table/022.png)23/142|french horn players|0.|
+|36|140|42f, 98m|loss|3000-8000|yes|-|![Bar](figures/summary%20table/023.png)13/140|7 musicians playing small strings, 3 woodwind players, 2 brasswind players and 1 percussionist|-|
+|91|126|58f, 68m|loss >25 dB|-|n/a|-|![Bar](figures/summary%20table/024.png)6/126|symphony orchestra musicians (88.9% are older musicians that have the loss)|5.|
+|105|123|55f, 337m|loss|4000-6000|n/a|-|![Bar](figures/summary%20table/025.png)39/123|musicians in 6 year follow-up who are 50-59 years|-|
+|81|119|59f, 61m|loss >15 dB|6000|n/a|r|![Bar](figures/summary%20table/026.png)6/119|orchestra musicians|-|
+|81|119|59f, 61m|loss >15 dB|6000|n/a|l|![Bar](figures/summary%20table/027.png)8/119|orchestra musicians|-|
+|83|109|33f, 76m|loss >15 dB|-|n/a|-|![Bar](figures/summary%20table/028.png)55/109|orchestra musicians|-|
+|83|109|33f, 76m|loss|4000-6000|n/a|l|![Bar](figures/summary%20table/029.png)59/109|strings from classical music orchestra (positively age correlated)|-|
+|75|96|16f, 80m|loss >20 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/030.png)56/96|orchestra musicians (theatre)|6.|
+|75|96|16f, 80m|loss|3000-4000|n/a|l|-|string group comparison left to right ear|6.|
+|75|80|16f, 80m|loss >20 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/031.png)40/80|male orchestra musicians (theatre)|6.|
+|90|68|-|loss >20 dB|4000|n/a|-|![Bar](figures/summary%20table/032.png)4/68|orchestra musicians [ears reported for affected persons and sample size] |3.|
+|33|65|20f, 45m|loss|4000|yes|r+l|![Bar](figures/summary%20table/033.png)7/65|symphony orchestra members|-|
+|33|65|20f, 45m|loss|4000|yes|l|-|10 viola players & 21 violinist|-|
+|50|61|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/034.png)37/61|symphony orchestra members|-|
+|45|59|13f, 46m|loss|3000-8000|yes|-|-|male musicians compared to female musicians|-|
+|45|59|13f, 46m|loss|3000-4000|yes|l|-|violinists and violists|-|
+|45|59|13f, 46m|loss|2000-8000|yes|r/l/r+l|![Bar](figures/summary%20table/035.png)42/59|symphony orchestra players|-|
+|97|53|30f, 23m|loss|-|n/a|-|![Bar](figures/summary%20table/036.png)1/53|music students (classical music)|7.|
+|88|46|-|loss|4000-6000|n/a|-|-|ballet orchestra members|-|
+|30|44|21f, 23m|loss|4000-6000|n/a|-|-|ballet orchestra members|-|
+|50|32|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/037.png)20/32|symphony orchestra members — small string instrument group|-|
+|75|16|16f, 80m|loss >20 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/038.png)2/16|female orchestra musicians (theatre)|6.|
+|37|13|-|loss >25 dB|~4000-8000|yes|r/l|![Bar](figures/summary%20table/039.png)3/13|members of orchestra|-|
+|37|13|-|loss|~4000-8000|yes|r+l/r/l|![Bar](figures/summary%20table/040.png)4/13|members of orchestra|-|
+|50|11|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/041.png)6/11|symphony orchestra members —  string instrument group|-|
+|50|9|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/042.png)6/9|symphony orchestra members —  brass instrument group|-|
+|94|6|1f, 5m|loss >25 dB|4000-8000|n/a|r+l|![Bar](figures/summary%20table/043.png)3/6|symphony orchestra members|10.|
+|50|6|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/044.png)2/6|symphony orchestra members — woodwind instrument group|-|
+|50|3|22f, 39m|loss > 25 dB|predominately 6000|no|r+l/r/l|![Bar](figures/summary%20table/045.png)3/3|symphony orchestra members — percussion group|-|
 
 
 
@@ -76,33 +76,31 @@
 ## Rock/Pop/Jazz
 |title|number of participants|sex|finding audiometry|frequency range|age correction|side of ear|portion of affected persons|description of affected persons|minimal years as practising musician|
 |---|---|---|---|---|---|---|---|---|---|
-|[Hearing in pop/rock musicians: a follow-up study    Axelsson, A.; Eliasson, A.; Israelsson, B. (1995)](https://doi.org/10.1097/00003446-199506000-00001)|40|-|normal hearing (median)|3000-8000|no|r+l|![Bar](figures/summary%20table/046.png)25/40|pop musicians|16.|
-|[Factors increasing the risk for hearing loss in 'pop' musicians    Axelsson, A.; Lindgren, F. (1977)](https://doi.org/10.3109/01050397709043112)|69|-|notch (worse hearing)|2000-4000|n/a|-|-|drummers and bass players of pop music|-|
-|[Ototraumatic effects of hard rock music    Reddell, R. C.; Lebo, C. P. (1972)](https://pubmed.ncbi.nlm.nih.gov/5008499)|43|4f, 39m|notch|6000|n/a|r+l|-|rock musicians|1.|
-|[Hearing in nonprofessional pop/rock musicians    Schmuziger, N.; Patscheke, J.; Probst, R. (2006)](https://doi.org/10.1097/01.aud.0000224737.34907.5e)|42|5f, 37m|notch (median) 15 dB|6000|n/a|l|-|nonprofessional pop/rock musicians|5.|
-|[Hearing in nonprofessional pop/rock musicians    Schmuziger, N.; Patscheke, J.; Probst, R. (2006)](https://doi.org/10.1097/01.aud.0000224737.34907.5e)|42|5f, 37m|notch (median) 12 dB|6000|n/a|r|-|nonprofessional pop/rock musicians|5.|
-|[Hearing in nonprofessional pop/rock musicians    Schmuziger, N.; Patscheke, J.; Probst, R. (2006)](https://doi.org/10.1097/01.aud.0000224737.34907.5e)|42|5f, 37m|notch >6 dB|3000-8000|n/a|-|-|nonprofessional pop/rock|5.|
-|[Study of the hearing of rock and roll musicians    Maia, J. R.; Russo, I. C. (2008)](https://doi.org/10.1590/s0104-56872008000100009)|23|4f, 19m|notch|4000-6000|n/a|-|![Bar](figures/summary%20table/047.png)9/23|rock musicians|2.|
-|[An assessment of threshold shifts in nonprofessional pop/rock musicians using conventional and extended high-frequency audiometry    Schmuziger, N.; Patscheke, J.; Probst, R. (2007)](https://doi.org/10.1097/AUD.0b013e31812f7144)|16|2f, 14m|notch|6000|n/a|r+l|![Bar](figures/summary%20table/048.png)16/16|16 non-professional musicians|5.|
-|[Beyond music: auditory temporary threshold shift in rock musicians after a heavy metal concert    Drake-Lee A. B. (1992)](https://doi.org/10.1177/014107689208501010)|4|-|notch|6000|n/a|r+l|![Bar](figures/summary%20table/049.png)1/4|heavy metal band members|5.|
-|[Assessment of hearing and hearing disorders in rock/jazz musicians    Kähärit, K.; Zachau, G.; Eklöf, M.; Sandsjö, L.; Möller, C. (2003)](https://doi.org/10.3109/14992020309078347)|139|43f, 96m|loss|250-4000|n/a|l compared to r|-|male  rock/jazz musicians|5.|
-|[Assessment of hearing and hearing disorders in rock/jazz musicians    Kähärit, K.; Zachau, G.; Eklöf, M.; Sandsjö, L.; Möller, C. (2003)](https://doi.org/10.3109/14992020309078347)|139|43f, 96m|loss|1000|n/a|r compared to l|-|male rock/jazz musicians|5.|
-|[Transient evoked otoacoustic emissions in rock musicians    Høydal, E. H.; Lein Størmer, C. C.; Laukli, E.; Stenklev, N. C. (2017)](https://doi.org/10.1080/14992027.2017.1321788)|111|14f, 97m|loss|6000|n/a|r+l|-|rock musicians|-|
-|[Hearing loss and tinnitus in rock musicians: a Norwegian survey    Størmer, C. C.; Laukli, E.; Høydal, E. H.; Stenklev, N. C. (2015)](https://doi.org/10.4103/1463-1741.169708)|111|15f, 102m|loss|-|n/a|-|![Bar](figures/summary%20table/050.png)41/111|rock musicians|-|
-|[Hearing loss and tinnitus in rock musicians: a Norwegian survey    Størmer, C. C.; Laukli, E.; Høydal, E. H.; Stenklev, N. C. (2015)](https://doi.org/10.4103/1463-1741.169708)|111|15f, 102m|loss|-|n/a|-|![Bar](figures/summary%20table/051.png)44/111|male rock musicians|-|
-|[Hearing loss and tinnitus in rock musicians: a Norwegian survey    Størmer, C. C.; Laukli, E.; Høydal, E. H.; Stenklev, N. C. (2015)](https://doi.org/10.4103/1463-1741.169708)|111|15f, 102m|loss|-|n/a|-|![Bar](figures/summary%20table/052.png)55/111|female rock musicians|-|
-|[An auditive protection for professional musicians    Cândido, P. E.; Merino, E. A.; Gontijo, L. A. (2012)](https://doi.org/10.3233/WOR-2012-0592-3260)|100|-|loss (slight to moderate)|-|n/a|r+l|![Bar](figures/summary%20table/053.png)20/100|band of dance members|-|
-|[An auditive protection for professional musicians    Cândido, P. E.; Merino, E. A.; Gontijo, L. A. (2012)](https://doi.org/10.3233/WOR-2012-0592-3260)|100|-|loss (slight to moderate)|-|n/a|l|![Bar](figures/summary%20table/054.png)40/100|band of dance members|-|
-|[Pop music and hearing    Axelsson, A.; Lindgren, F. (1981)](https://doi.org/10.1097/00003446-198103000-00002)|69|-|loss >20 dB|3000-8000|n/a|r+l/r/l|![Bar](figures/summary%20table/055.png)25/69|pop musicians|-|
-|[Does pop music cause hearing damage?    Axelsson, A.; Lindgren, F. (1977)](https://doi.org/10.3109/00206097709071856)|69|-|loss >20 dB|-|n/a|r/l|![Bar](figures/summary%20table/056.png)38/69|pop musicians|10.|
-|[Hearing in pop musicians    Axelsson, A.; Lindgren, F. (1978)](https://doi.org/10.3109/00016487809111929)|69|-|loss > 20 dB|3000-8000|yes|r/l|![Bar](figures/summary%20table/057.png)25/69|pop musicians|-|
-|[Exposure to music and noise-induced hearing loss (NIHL) among professional pop/rock/jazz musicians    Halevi-Katz, D. N.; Yaakobi, E.; Putter-Katz, H. (2015)](https://doi.org/10.4103/1463-1741.155848)|41|8f, 36m|loss|-|n/a|r+l|-|rock/pop/jazz musicians|-|
-|[Hearing in pop/rock musicians: a follow-up study    Axelsson, A.; Eliasson, A.; Israelsson, B. (1995)](https://doi.org/10.1097/00003446-199506000-00001)|40|-|loss > 20 dB|4000-6000|no|r/l|![Bar](figures/summary%20table/058.png)10/40|pop musicians|16.|
-|[Hearing in pop/rock musicians: a follow-up study    Axelsson, A.; Eliasson, A.; Israelsson, B. (1995)](https://doi.org/10.1097/00003446-199506000-00001)|40|-|loss > 20 dB|4000-6000|no|r+l|![Bar](figures/summary%20table/059.png)4/40|pop musicians|16.|
-|[Hearing loss in rock-and-roll musicians    Speaks, C.; Nelson, D.; Ward, W. D. (1970)](https://doi.org/10.1097/00043764-197006000-00004)|25|-|loss >20 dB|-|n/a|-|![Bar](figures/summary%20table/060.png)6/25|rock musicians|-|
-|[Pop-rock musicians: assessment of their satisfaction provided by hearing protectors    Santoni, C. B.; Fiorini, A. C. (2010)](https://doi.org/10.1590/S1808-86942010000400009)|24|1f, 23m|loss|3000-6000|n/a|r+l|![Bar](figures/summary%20table/061.png)5/24|rock & pop musicians|3.|
-|[Audiological and electrophysiological assessment of professional pop/rock musicians    Samelli, A. G.; Matas, C. G.; Carvallo, R. M.; Gomes, R. F.; de Beija, C. S.; Magliaro, F. C.; Rabelo, C. M. (2012)](https://doi.org/10.4103/1463-1741.93314)|16|0f, 16m|loss|2000-3000|n/a|r+l|-|rock and pop musicians compared to control group|5.|
-|[Temporary threshold shift in rock-and-roll musicians    Jerger, J.; Jerger, S. (1970)](https://doi.org/10.1044/jshr.1301.221)|9|0f, 9m|loss >30 dB|2000-8000|n/a|-|![Bar](figures/summary%20table/062.png)3/9|rock band members|1.|
+|49|40|-|normal hearing (median)|3000-8000|no|r+l|![Bar](figures/summary%20table/046.png)25/40|pop musicians|16.|
+|72|69|-|notch (worse hearing)|2000-4000|n/a|-|-|drummers and bass players of pop music|-|
+|92|43|4f, 39m|notch|6000|n/a|r+l|-|rock musicians|1.|
+|76|42|5f, 37m|notch (median) 15 dB|6000|n/a|l|-|nonprofessional pop/rock musicians|5.|
+|76|42|5f, 37m|notch (median) 12 dB|6000|n/a|r|-|nonprofessional pop/rock musicians|5.|
+|76|42|5f, 37m|notch >6 dB|3000-8000|n/a|-|-|nonprofessional pop/rock|5.|
+|102|23|4f, 19m|notch|4000-6000|n/a|-|![Bar](figures/summary%20table/047.png)9/23|rock musicians|2.|
+|54|16|2f, 14m|notch|6000|n/a|r+l|![Bar](figures/summary%20table/048.png)16/16|16 non-professional musicians|5.|
+|64|4|-|notch|6000|n/a|r+l|![Bar](figures/summary%20table/049.png)1/4|heavy metal band members|5.|
+|56|139|43f, 96m|loss|250-4000|n/a|l compared to r|-|male  rock/jazz musicians|5.|
+|56|139|43f, 96m|loss|1000|n/a|r compared to l|-|male rock/jazz musicians|5.|
+|107|111|14f, 97m|loss|6000|n/a|r+l|-|rock musicians|-|
+|78|111|15f, 102m|loss|-|n/a|-|![Bar](figures/summary%20table/050.png)41/111|rock musicians|-|
+|78|111|15f, 102m|loss|-|n/a|-|![Bar](figures/summary%20table/051.png)44/111|male rock musicians|-|
+|78|111|15f, 102m|loss|-|n/a|-|![Bar](figures/summary%20table/052.png)55/111|female rock musicians|-|
+|95|69|-|loss >20 dB|3000-8000|n/a|r+l/r/l|![Bar](figures/summary%20table/053.png)25/69|pop musicians|-|
+|65|69|-|loss >20 dB|-|n/a|r/l|![Bar](figures/summary%20table/054.png)38/69|pop musicians|10.|
+|38|69|-|loss > 20 dB|3000-8000|yes|r/l|![Bar](figures/summary%20table/055.png)25/69|pop musicians|-|
+|70|41|8f, 36m|loss|-|n/a|r+l|-|rock/pop/jazz musicians|-|
+|49|40|-|loss > 20 dB|4000-6000|no|r/l|![Bar](figures/summary%20table/056.png)10/40|pop musicians|16.|
+|49|40|-|loss > 20 dB|4000-6000|no|r+l|![Bar](figures/summary%20table/057.png)4/40|pop musicians|16.|
+|79|25|-|loss >20 dB|-|n/a|-|![Bar](figures/summary%20table/058.png)6/25|rock musicians|-|
+|96|24|1f, 23m|loss|3000-6000|n/a|r+l|![Bar](figures/summary%20table/059.png)5/24|rock & pop musicians|3.|
+|58|16|0f, 16m|loss|2000-3000|n/a|r+l|-|rock and pop musicians compared to control group|5.|
+|103|9|0f, 9m|loss >30 dB|2000-8000|n/a|-|![Bar](figures/summary%20table/060.png)3/9|rock band members|1.|
 
 
 
@@ -110,20 +108,20 @@
 ## Traditional Music
 |title|number of participants|sex|finding audiometry|frequency range|age correction|side of ear|portion of affected persons|description of affected persons|minimal years as practising musician|
 |---|---|---|---|---|---|---|---|---|---|
-|[Patterns of noise exposure and prevalence of hearing loss amongst Cape Town Minstrel Carnival musicians    Ramma, L. (2021)](https://doi.org/10.4102/sajcd.v68i1.789)|43|22f, 21m|normal hearing|4000-8000|n/a|-|![Bar](figures/summary%20table/063.png)43/43|non-professional, traditional musicians|-|
-|[Noise-induced hearing loss among professional musicians    Pouryaghoub, G.; Mehrdad, R.; Pourhosein, S. (2017)](https://doi.org/10.1539/joh.16-0217-OA)|125|21f, 104m|notches|-|n/a|r+l/r/l|![Bar](figures/summary%20table/064.png)53/125|traditional and/or pop musicians|5.|
-|[Audiological and noise exposure findings among members of a Brazilian folklore music group    Carneiro Muniz, C. M. D.; da Silva, S. F. S.; Façanha, R. C.; Bassi-Dibai, D.; Silva, F. B.; Felipe, I. M. A.; Dias, R. D. S. (2021)](https://doi.org/10.3233/WOR-203370)|18|-|notch|-|n/a|-|![Bar](figures/summary%20table/065.png)11/18|musicians in a Brazilian dance group|1.|
-|[Noise-induced hearing loss among professional musicians    Pouryaghoub, G.; Mehrdad, R.; Pourhosein, S. (2017)](https://doi.org/10.1539/joh.16-0217-OA)|125|21f, 104m|loss (not significant to other instrument groups)|-|n/a|l|![Bar](figures/summary%20table/066.png)14/125|violin players|5.|
-|[An auditive protection for professional musicians    Cândido, P. E.; Merino, E. A.; Gontijo, L. A. (2012)](https://doi.org/10.3233/WOR-2012-0592-3260)|100|-|loss (slight to moderate)|-|n/a|r+l|![Bar](figures/summary%20table/067.png)20/100|band of dance members|-|
-|[An auditive protection for professional musicians    Cândido, P. E.; Merino, E. A.; Gontijo, L. A. (2012)](https://doi.org/10.3233/WOR-2012-0592-3260)|100|-|loss (slight to moderate)|-|n/a|l|![Bar](figures/summary%20table/068.png)40/100|band of dance members|-|
-|[Assisted protection headphone proposal to prevent chronic exposure to percussion instruments on musicians    Parra, L.; Torres, M.; Lloret, J.; Campos, A.; Bosh, I. (2018)](https://doi.org/10.1155/2018/9672185)|43|26f, 17m|loss >25 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/069.png)15/43|students and teachers from Valencia drum school|5.|
-|[Assisted protection headphone proposal to prevent chronic exposure to percussion instruments on musicians    Parra, L.; Torres, M.; Lloret, J.; Campos, A.; Bosh, I. (2018)](https://doi.org/10.1155/2018/9672185)|43|26f, 17m|loss 15 dB|125|n/a|-|![Bar](figures/summary%20table/070.png)4/43|students and teachers from Valencia drum school|5.|
-|[Assisted protection headphone proposal to prevent chronic exposure to percussion instruments on musicians    Parra, L.; Torres, M.; Lloret, J.; Campos, A.; Bosh, I. (2018)](https://doi.org/10.1155/2018/9672185)|43|26f, 17m|loss 10 dB|125|n/a|-|![Bar](figures/summary%20table/071.png)39/43|students and teachers from Valencia drum school|5.|
-|[Noise effect of gamelan jegog to the risk of hearing loss among jegog players in Sangkaragung village, Negara, Jembrana    Setiawan, E. P.; Maryati, M. R. (2018)](http://dx.doi.org/10.13005/bpj/1598)|37|0f, 37m|loss >25 dB|-|n/a|-|![Bar](figures/summary%20table/072.png)13/37|Jegog players (traditional instrument of Indonesia)|10.|
-|[Hearing loss in steelband musicians    Juman, S.; Karmody, C. S.; Simeon, D. (2004)](https://doi.org/10.1016/j.otohns.2003.12.023)|29|6f, 23m|loss >20 dB|3000-8000|n/a|-|![Bar](figures/summary%20table/073.png)12/29|traditional steel band musicians|-|
-|[Valencia's cathedral church bell acoustics impact on the hearing abilities of bell ringers    García, L.; Parra, L.; Gomis, B. P.; Cavallé, L.; Pérez Guillén, V.; Pérez Garrigues, H.; Lloret, J. (2019)](https://doi.org/10.3390/ijerph16091564)|18|1f, 17m|loss ~20 dB|3000-8000|yes|-|-|bell ringers|-|
-|[Acoustic sensitivity of the saccule and daf music    Emami S. F. (2014)](https://pubmed.ncbi.nlm.nih.gov/24744999/)|18|5f, 13m|loss >16 dB|3000|n/a|-|![Bar](figures/summary%20table/074.png)18/18|18 Daf Musicians|5.|
-|[Acoustic sensitivity of the saccule and daf music    Emami S. F. (2014)](https://pubmed.ncbi.nlm.nih.gov/24744999/)|18|5f, 13m|loss >16 dB|250|n/a|-|![Bar](figures/summary%20table/075.png)18/18|18 Daf Musicians|5.|
+|93|43|22f, 21m|normal hearing|4000-8000|n/a|-|![Bar](figures/summary%20table/061.png)43/43|non-professional, traditional musicians|-|
+|108|125|21f, 104m|notches|-|n/a|r+l/r/l|![Bar](figures/summary%20table/062.png)53/125|traditional and/or pop musicians|5.|
+|59|18|-|notch|-|n/a|-|![Bar](figures/summary%20table/063.png)11/18|musicians in a Brazilian dance group|1.|
+|108|125|21f, 104m|loss (not significant to other instrument groups)|-|n/a|l|![Bar](figures/summary%20table/064.png)14/125|violin players|5.|
+|55|100|-|loss (slight to moderate)|-|n/a|r+l|![Bar](figures/summary%20table/065.png)20/100|band of dance members|-|
+|55|100|-|loss (slight to moderate)|-|n/a|l|![Bar](figures/summary%20table/066.png)40/100|band of dance members|-|
+|57|43|26f, 17m|loss >25 dB|-|n/a|r+l/r/l|![Bar](figures/summary%20table/067.png)15/43|students and teachers from Valencia drum school|5.|
+|57|43|26f, 17m|loss 15 dB|125|n/a|-|![Bar](figures/summary%20table/068.png)4/43|students and teachers from Valencia drum school|5.|
+|57|43|26f, 17m|loss 10 dB|125|n/a|-|![Bar](figures/summary%20table/069.png)39/43|students and teachers from Valencia drum school|5.|
+|86|37|0f, 37m|loss >25 dB|-|n/a|-|![Bar](figures/summary%20table/070.png)13/37|Jegog players (traditional instrument of Indonesia)|10.|
+|80|29|6f, 23m|loss >20 dB|3000-8000|n/a|-|![Bar](figures/summary%20table/071.png)12/29|traditional steel band musicians|-|
+|48|18|1f, 17m|loss ~20 dB|3000-8000|yes|-|-|bell ringers|-|
+|53|18|5f, 13m|loss >16 dB|3000|n/a|-|![Bar](figures/summary%20table/072.png)18/18|18 Daf Musicians|5.|
+|53|18|5f, 13m|loss >16 dB|250|n/a|-|![Bar](figures/summary%20table/073.png)18/18|18 Daf Musicians|5.|
 
 
 
@@ -131,13 +129,13 @@
 ## Military Music and Marching Band Music
 |title|number of participants|sex|finding audiometry|frequency range|age correction|side of ear|portion of affected persons|description of affected persons|minimal years as practising musician|
 |---|---|---|---|---|---|---|---|---|---|
-|[Hearing conservation program for marching band members: a risk for noise-induced hearing loss?    Jin, S. H.; Nelson, P. B.; Schlauch, R. S.; Carney, E. (2013)](https://doi.org/10.1044/1059-0889(2012/11-0030))|350|174f, 176m|normal hearing <5 dB|250-8000|n/a|-|-|Marching Band members|-|
-|[Hearing loss in British Army musicians    Patil, M. L.; Sadhra, S.; Taylor, C.; Folkes, S. E. (2013)](https://doi.org/10.1093/occmed/kqt026)|175|91f, 84m|normal hearing|-|yes|-|-|Military  music band member|8.|
-|[Hearing conservation program for marching band members: a risk for noise-induced hearing loss?    Jin, S. H.; Nelson, P. B.; Schlauch, R. S.; Carney, E. (2013)](https://doi.org/10.1044/1059-0889(2012/11-0030))|350|174f, 176m|notch (slight)|6000|n/a|-|-|Marching band members|-|
-|[Auditory thresholds among military musicians: conventional and high frequency    Gonçalves, C. G.; Lacerda, A. B.; Zeigelboim, B. S.; Marques, J. M.; Luders, D.  (2013)](https://doi.org/10.1590/s2317-17822013000200015)|50|0f, 50m|loss|-|n/a|-|![Bar](figures/summary%20table/076.png)32/50|musicians from police band|-|
-|[Noise exposure and auditory thresholds of military musicians: a follow up study    Müller, R.; Schneider, J. (2018)](https://doi.org/10.1186/s12995-018-0196-7)|39|0f, 39m|loss|3000-8000|n/a|-|-|military musicians in a 13.3 year follow-up|-|
-|[Sound exposure and audiometric profile of military police band musicians    Lüders, D.; Da Silva Martins, K. R. R.; De Lacerda, A. B. M.; De Oliveira Gonçalves, C. G.; Heupa, A. B. (2017)](https://www.embase.com/records?subaction=viewrecord&id=L623446701)|34|3f, 31m|loss >25 dB|~6000|n/a|r+l/r/l|![Bar](figures/summary%20table/077.png)8/34|musicians from police band|-|
-|[Noise exposure and hearing protection in marching band students    Myers, E. (2021)](https://scholarworks.uark.edu/rhrcuht/71/)|30|19f, 11m|loss > 20 dB|-|n/a|-|![Bar](figures/summary%20table/078.png)4/30|marching band members|-|
+|73|350|174f, 176m|normal hearing <5 dB|250-8000|n/a|-|-|Marching Band members|-|
+|40|175|91f, 84m|normal hearing|-|yes|-|-|Military  music band member|8.|
+|73|350|174f, 176m|notch (slight)|6000|n/a|-|-|Marching band members|-|
+|62|50|0f, 50m|loss|-|n/a|-|![Bar](figures/summary%20table/074.png)32/50|musicians from police band|-|
+|87|39|0f, 39m|loss|3000-8000|n/a|-|-|military musicians in a 13.3 year follow-up|-|
+|101|34|3f, 31m|loss >25 dB|~6000|n/a|r+l/r/l|![Bar](figures/summary%20table/075.png)8/34|musicians from police band|-|
+|89|30|19f, 11m|loss > 20 dB|-|n/a|-|![Bar](figures/summary%20table/076.png)4/30|marching band members|-|
 
 
 
@@ -145,23 +143,23 @@
 ## Unknown, Mixed Genre
 |title|number of participants|sex|finding audiometry|frequency range|age correction|side of ear|portion of affected persons|description of affected persons|minimal years as practising musician|
 |---|---|---|---|---|---|---|---|---|---|
-|[Hearing loss and mental health issues in amateur and professional musicians    Maghiar, M. J.;  Lawrence, B. J.; Mulders, W. H. A. M; Moyle, T. C.; Livings, I.; Jayakody, D. M. P.  (2023)](https://doi.org/10.1177/03057356231155970)|32|13f, 19m|normal hearing|500-16000|n/a|-|-|professional musicians|-|
-|[Hearing loss and mental health issues in amateur and professional musicians    Maghiar, M. J.;  Lawrence, B. J.; Mulders, W. H. A. M; Moyle, T. C.; Livings, I.; Jayakody, D. M. P.  (2023)](https://doi.org/10.1177/03057356231155970)|32|13f, 19m|normal hearing|500-16000|n/a|-|-|amateur musicians|-|
-|[ABR findings in musicians with normal audiogram and otoacoustic emissions: evidence of cochlear synaptopathy?    Kikidis, D.; Vardonikolaki, A.; Zachou, Z.; Razou, A.; Pantos, P.; Bibas, A. (2020)](http://dx.doi.org/10.1080/21695717.2019.1663054)|24|12f, 12m|normal hearing < 25 dB|250-8000|n/a|r+l|![Bar](figures/summary%20table/079.png)24/24|musicians and sound engineers|5.|
-|[ABR findings in musicians with normal audiogram and otoacoustic emissions: evidence of cochlear synaptopathy?    Kikidis, D.; Vardonikolaki, A.; Zachou, Z.; Razou, A.; Pantos, P.; Bibas, A. (2020)](http://dx.doi.org/10.1080/21695717.2019.1663054)|24|12f, 12m|normal hearing < 10 dB|250-8000|n/a|r/l|![Bar](figures/summary%20table/080.png)24/24| comparison of ears of musicians and sound engineers|5.|
-|[Auditory electrophysiological and perceptual measures in student musicians with high sound exposure    Washnik, N. J. ; Bhatt, I. S.; Sergeev, A. V.; Prabhu, P.; Suresh, C. (2023)](https://doi.org/10.3390/diagnostics13050934)|18|7f, 11m|normal hearing <15 dB|500-16000|n/a|-|-|students of music compared to control group|-|
-|[Prevalence of noise-induced hearing loss in middle and high school band members: a preliminary study    Ramrattan, H.; Gurevich, N. (2020)](https://doi.org/10.1159/000501154)|20|22f, 9m|notch|4000-6000|n/a|r+l|![Bar](figures/summary%20table/081.png)8/20|high school band members|-|
-|[Prevalence of noise-induced hearing loss in middle and high school band members: a preliminary study    Ramrattan, H.; Gurevich, N. (2020)](https://doi.org/10.1159/000501154)|20|22f, 9m|notch|4000-6000|n/a|r|![Bar](figures/summary%20table/082.png)5/20|high school band members|-|
-|[Prevalence of noise-induced hearing loss in middle and high school band members: a preliminary study    Ramrattan, H.; Gurevich, N. (2020)](https://doi.org/10.1159/000501154)|11|22f, 9m|notch|4000-6000|n/a|r+l|![Bar](figures/summary%20table/083.png)4/11|middle school band members|-|
-|[Prevalence of noise-induced hearing loss in middle and high school band members: a preliminary study    Ramrattan, H.; Gurevich, N. (2020)](https://doi.org/10.1159/000501154)|11|22f, 9m|notch|4000-6000|n/a|r|![Bar](figures/summary%20table/084.png)2/11|high school band members|-|
-|[Prevalence of noise-induced hearing loss in middle and high school band members: a preliminary study    Ramrattan, H.; Gurevich, N. (2020)](https://doi.org/10.1159/000501154)|11|22f, 9m|notch|4000-6000|n/a|l|![Bar](figures/summary%20table/085.png)1/11|high school band members|-|
-|[Auditory thresholds and factors contributing to hearing loss in a large sample of percussionists    Hoffman, J. S.; Cunningham, D. R.; Lorenz, D. J. (2006)](https://doi.org/10.21091/mppa.2006.2011)|304|67f, 240m|loss >25 dB|250-8000|n/a|r+l|![Bar](figures/summary%20table/086.png)119/304|percussionists|-|
-|[Screening and prevalence of hearing loss in professional musicians    Laraqui, S.; Manar, N.; Laraqui, O.; Laraqui, F.; Laraqui Hossini, C. E. H. (2022)](http://dx.doi.org/10.1016/j.shaw.2021.12.1625)|241|-|loss|-|n/a|-|![Bar](figures/summary%20table/087.png)123/241|musicians|2.|
-|[Hearing loss in students at a conservatory    Schmidt, J. M.; Verschuure, J.; Brocaar, M. P. (1994)](https://doi.org/10.3109/00206099409071879)|64|29f, 50m|loss >20 dB|3000-8000|yes|r+l/r/l|![Bar](figures/summary%20table/088.png)10/64|music students (mixed genre)|-|
-|[Hearing loss in students at a conservatory    Schmidt, J. M.; Verschuure, J.; Brocaar, M. P. (1994)](https://doi.org/10.3109/00206099409071879)|64|29f, 50m|loss > 20 dB|3000-6000|yes|r+l/r/l|![Bar](figures/summary%20table/089.png)12/64|music students (mixed genre)|-|
-|[Music students: conventional hearing thresholds and at high frequencies    Lüders, D.; Gonçalves, C. G.; Lacerda, A. B.; Ribas, Â.; Conto, J. d. (2014)](https://doi.org/10.1016/j.bjorl.2014.05.010)|42|16f, 26m|loss >25 dB|6000-8000|n/a|r+l/r/l|![Bar](figures/summary%20table/090.png)3/42|music students|1.|
-|[Music students: conventional hearing thresholds and at high frequencies    Lüders, D.; Gonçalves, C. G.; Lacerda, A. B.; Ribas, Â.; Conto, J. d. (2014)](https://doi.org/10.1016/j.bjorl.2014.05.010)|42|16f, 26m|loss|500-2000|n/a|l compared to r|-|music students|1.|
-|[Music students: conventional hearing thresholds and at high frequencies    Lüders, D.; Gonçalves, C. G.; Lacerda, A. B.; Ribas, Â.; Conto, J. d. (2014)](https://doi.org/10.1016/j.bjorl.2014.05.010)|42|16f, 26m|loss|500|n/a|l|-|music students|1.|
-|[Music students: conventional hearing thresholds and at high frequencies    Lüders, D.; Gonçalves, C. G.; Lacerda, A. B.; Ribas, Â.; Conto, J. d. (2014)](https://doi.org/10.1016/j.bjorl.2014.05.010)|42|16f, 26m|loss|250|n/a|r+l|-|music students|1.|
-|[Acceptance of hearing protection aids in members of an instrumental and voice music band    Helena Mendes, M.; Catalani Morata, T; Mendes Marques, J. (2007)](https://doi.org/10.1016/S1808-8694(15)31175-7)|36|6f, 28m|loss >25 dB|4000-6000|yes|r+l|![Bar](figures/summary%20table/091.png)9/36|city band members|1.|
-|[The influence of sound exposure onset and duration to the hearing loss prevalence in musicians    Widuri, A.; Gartiwa, G.; Pujiyanto, E. (2022)](https://ieomsociety.org/proceedings/2022australia/29.pdf)|35|0f, 35m|loss|-|n/a|-|![Bar](figures/summary%20table/092.png)20/35|musicians from Yogyakarta, Indonesia|5.|
+|77|32|13f, 19m|normal hearing|500-16000|n/a|-|-|professional musicians|-|
+|77|32|13f, 19m|normal hearing|500-16000|n/a|-|-|amateur musicians|-|
+|52|24|12f, 12m|normal hearing < 25 dB|250-8000|n/a|r+l|![Bar](figures/summary%20table/077.png)24/24|musicians and sound engineers|5.|
+|52|24|12f, 12m|normal hearing < 10 dB|250-8000|n/a|r/l|![Bar](figures/summary%20table/078.png)24/24| comparison of ears of musicians and sound engineers|5.|
+|61|18|7f, 11m|normal hearing <15 dB|500-16000|n/a|-|-|students of music compared to control group|-|
+|98|20|22f, 9m|notch|4000-6000|n/a|r+l|![Bar](figures/summary%20table/079.png)8/20|high school band members|-|
+|98|20|22f, 9m|notch|4000-6000|n/a|r|![Bar](figures/summary%20table/080.png)5/20|high school band members|-|
+|98|11|22f, 9m|notch|4000-6000|n/a|r+l|![Bar](figures/summary%20table/081.png)4/11|middle school band members|-|
+|98|11|22f, 9m|notch|4000-6000|n/a|r|![Bar](figures/summary%20table/082.png)2/11|high school band members|-|
+|98|11|22f, 9m|notch|4000-6000|n/a|l|![Bar](figures/summary%20table/083.png)1/11|high school band members|-|
+|63|304|67f, 240m|loss >25 dB|250-8000|n/a|r+l|![Bar](figures/summary%20table/084.png)119/304|percussionists|-|
+|100|241|-|loss|-|n/a|-|![Bar](figures/summary%20table/085.png)123/241|musicians|2.|
+|42|64|29f, 50m|loss >20 dB|3000-8000|yes|r+l/r/l|![Bar](figures/summary%20table/086.png)10/64|music students (mixed genre)|-|
+|42|64|29f, 50m|loss > 20 dB|3000-6000|yes|r+l/r/l|![Bar](figures/summary%20table/087.png)12/64|music students (mixed genre)|-|
+|84|42|16f, 26m|loss >25 dB|6000-8000|n/a|r+l/r/l|![Bar](figures/summary%20table/088.png)3/42|music students|1.|
+|84|42|16f, 26m|loss|500-2000|n/a|l compared to r|-|music students|1.|
+|84|42|16f, 26m|loss|500|n/a|l|-|music students|1.|
+|84|42|16f, 26m|loss|250|n/a|r+l|-|music students|1.|
+|32|36|6f, 28m|loss >25 dB|4000-6000|yes|r+l|![Bar](figures/summary%20table/089.png)9/36|city band members|1.|
+|106|35|0f, 35m|loss|-|n/a|-|![Bar](figures/summary%20table/090.png)20/35|musicians from Yogyakarta, Indonesia|5.|
